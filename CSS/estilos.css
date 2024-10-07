@@ -1,0 +1,12 @@
+body{
+    background-color: #4e0808;
+    color: #fff;
+}
+.container{
+    padding: 1rem;
+}
+.programador{
+    width: 10rem;
+    height: auto;
+    border-radius: 10px;
+}
